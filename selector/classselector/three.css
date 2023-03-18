@@ -1,0 +1,17 @@
+.abc{
+    background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.mnb{
+    background-color: darkviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+.bg-dark{
+    background-color: darkgoldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn-co{
+    background-color: rgb(30, 235, 30);
+}
