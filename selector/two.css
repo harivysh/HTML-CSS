@@ -1,0 +1,12 @@
+h1{
+    background-color: chocolate;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+h2,h3,h4,p{
+    background-color: crimson;
+    font-style: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
